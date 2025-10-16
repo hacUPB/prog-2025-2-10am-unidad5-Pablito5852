@@ -1,0 +1,7 @@
+Archivo = open("./Archivos/Upb.txt", "r")
+Archivo.readline()
+Archivo.readline()
+Archivo.read(11)
+datos = Archivo.readline()
+Archivo.close()
+print(datos)                         
