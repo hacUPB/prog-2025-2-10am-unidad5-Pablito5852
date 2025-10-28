@@ -1,0 +1,3 @@
+Este es un archivo de texto de prueba. Tiene varias palabras y algunas vocales.
+Vamos a contar cuántas veces aparecen las vocales y cuántas palabras hay.
+También vamos a reemplazar palabras si es necesario.
