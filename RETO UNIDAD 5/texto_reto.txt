@@ -1,3 +1,20 @@
-Este es un archivo de texto de prueba. Tiene varias palabras y algunas vocales.
-Vamos a contar cuántas veces aparecen las vocales y cuántas palabras hay.
-También vamos a reemplazar palabras si es necesario.
+El Boeing 747 es uno de los aviones más emblemáticos en la historia de la aviación comercial. 
+Introducido a finales de la década de 1960, fue diseñado para satisfacer la creciente demanda de vuelos internacionales 
+de larga distancia. Su rasgo más distintivo es la joroba en la parte frontal del fuselaje, donde se encuentra una segunda 
+cubierta. Este diseño no solo le da su apariencia inconfundible,sino que también permitió que el avión tuviera una capacidad 
+de pasajeros mucho mayor que cualquier otro modelo de su época.
+
+
+El primer modelo, conocido como 747-100, revolucionó la industria aérea al poder transportar más de 350 pasajeros en un solo vuelo.
+Esto hizo que viajar de continente a continente se volviera más accesible, reduciendo costos y aumentando la frecuencia de 
+rutas intercontinentales. Con el tiempo, el avión fue evolucionando y aparecieron versiones como el 747-200, 747-300, 747-400 y, 
+finalmente, el 747-8, la variante más moderna, eficiente y silenciosa.
+
+Además de su uso para pasajeros, el Boeing 747 ha sido crucial en transporte de carga. Sus versiones “Freighter” cuentan con 
+una enorme compuerta en la nariz para facilitar la carga de mercancías grandes. Incluso ha sido utilizado para misiones 
+especiales, como el avión presidencial Air Force One y la plataforma aérea para transportar el transbordador espacial de la NASA.
+
+El 747 también ha dejado una huella cultural profunda. Aparece en películas, documentales y hasta canciones, simbolizando viajes, 
+progreso y globalización. Sin embargo, con el paso del tiempo y el avance de aviones más eficientes, como los modelos bimotor de 
+última generación, muchas aerolíneas han ido retirándolo de sus flotas. Aun así, su legado permanece intacto: el Boeing 747 
+cambió para siempre la forma en que el mundo se conecta por aire.
