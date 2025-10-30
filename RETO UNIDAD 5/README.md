@@ -40,3 +40,5 @@ Con este reto aprendí a:
 - Organizar un programa en menús y funciones para que sea más fácil de usar.
 Este proyecto me ayudó a reforzar la lógica de programación y a entender cómo se pueden aplicar estas herramientas en problemas reales.
 
+## Video:
+https://upbeduco.sharepoint.com/sites/reto/_layouts/15/stream.aspx?id=%2Fsites%2Freto%2FShared%20Documents%2FGeneral%2FRecordings%2FReuni%C3%B3n%20en%20General%2D20251030%5F111502%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E33496425%2D2c6f%2D42a6%2Da318%2D4cecae589674
